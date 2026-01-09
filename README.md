@@ -8,6 +8,15 @@ A CLI-based inventory management tool designed for small pharmacies. This projec
 * **Data Persistence:** Uses CSV files (`medicines.csv`) to save data permanently.
 * **Validation:** Prevents selling more stock than available.
 
+## How to Run
+type "chmod +x store_management.sh" to make it executable
+
+run by "./store_management.sh"
+
+
+
+
+
 ## 🖥️ User Interface Preview
 Since this runs in the terminal, the interface looks like this:
 
@@ -23,3 +32,6 @@ Medicine Store Management System
 8. Exit
 ========================================
 Enter your choice:
+
+
+
