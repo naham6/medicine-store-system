@@ -1,7 +1,6 @@
 # 🏥 Medicine Store Management System
 
-
-A CLI-based inventory management tool designed for small pharmacies. This project demonstrates how to build a functional CRUD (Create, Read, Update, Delete) system using only native Shell scripting and file processing (`awk`, `grep`).
+A CLI-based inventory management tool designed for small pharmacies. This project demonstrates how to build a functional CRUD (Create, Read, Update, Delete) system using only native Shell scripting and file processing.
 
 ## 📋 Features
 * **Inventory Management:** Add, search, and manage medicine stock.
@@ -13,7 +12,7 @@ A CLI-based inventory management tool designed for small pharmacies. This projec
 Since this runs in the terminal, the interface looks like this:
 
 ```text
-=== Medicine Store Management System ===
+Medicine Store Management System
 1. Add New Medicine
 2. View Medicines
 3. Search Medicine
